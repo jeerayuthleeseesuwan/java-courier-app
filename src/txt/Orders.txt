@@ -1,0 +1,12 @@
+PID0__Parcel__10.0__10.0__5.0__7.0__07/8/2020 1:05 PM__Land__No 2, Lorong Gembira 6#Taman Gembira#57000#Kuala Lumpur#Malaysia__James__0192836483__Cancelled__000001
+PID1__Document__10.0__10.0__5.0__7.0__07/9/2020 1:59 PM__Land__No 2, Lorong Badang 4#Taman Gembira#57000#Kuala Lumpur#Malaysia__Lim__01928362354__Delivered__000002
+PID2__Parcel__7.0__9.0__5.0__6.0__08/10/2020 1:00 PM__Land__No 1, Lorong Mini 3#Taman#57040#Kuala Lumpur#Malaysia__John__019204839__Out For Delivery__000001
+PID3__Parcel__2.0__15.0__10.0__4.0__24/09/2020 11:37 AM__Land__No 2#Taman#57000#Kuala Lumpur#Malaysia__James__012938494__Cancelled__000001
+PID4__Parcel__4.0__15.0__10.0__2.0__24/8/2020 11:37 AM__Land__No 5#Taman#57000#Kuala Lumpur#Malaysia__James__012938494__Processing__000001
+PID5__Parcel__3.0__15.0__10.0__4.0__24/08/2020 11:37 AM__Land__No 32, Lorong#Taman Desa#57000#Kuala Lumpur#Malaysia__James__012938494__Processing__000002
+PID6__Parcel__6.0__15.0__10.0__2.0__24/11/2020 11:37 AM__Land__No 62,#Taman Jaya#57000#Kuala Lumpur#Malaysia__James__012938494__Delivered__000001
+PID7__Parcel__2.0__15.0__11.0__1.5__24/11/2020 11:37 AM__Land__No 32,#Taman Mutiara#57000#Kuala Lumpur#Malaysia__James__012938494__Processing__000002
+PID8__Parcel__2.0__15.0__10.0__2.0__24/11/2020 11:37 AM__Land__No 882,#Taman Kaya#57000#Kuala Lumpur#Malaysia__James__012938494__Processing__000002
+PID9__Parcel__7.0__9.0__5.0__6.0__08/10/2020 1:00 PM__Land__No 1, Lorong Mini 5#Taman Dasar#57040#Kuala Lumpur#Malaysia__John__019204839__Out For Delivery__000001
+PID10__Parcel__7.0__9.0__5.0__6.0__08/10/2020 1:00 PM__Land__No 1, Lorong Badang 4#Taman Desa#57040#Kuala Lumpur#Malaysia__John__019204839__Out For Delivery__000001
+PID11__Document__3.0__10.0__10.0__2.0__24/11/2020 06:07 PM__Land__No1#Taman Jaya#52000#KL#W.P__John__012883745__Processing__000002

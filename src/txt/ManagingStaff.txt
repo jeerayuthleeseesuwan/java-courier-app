@@ -1,0 +1,4 @@
+000000,Lee Yooo,Female,23-01-1993,019308385,lee@gmail.comm,,end-of-line
+000003,James Loo,Female,10-11-1998,0127384037,james@gmail.com,C:\Users\jeera\Downloads\6ce0e45349a436e17590ff58f9d425e6.jpg,end-of-line
+000005,Lim,,,,lim@gmail.com,,end-of-line
+000007,Liiii,,,,Li@gmail.com,,end-of-line

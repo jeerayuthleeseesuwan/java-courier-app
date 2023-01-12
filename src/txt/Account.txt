@@ -1,0 +1,8 @@
+000000,lee,12345678,Admin,Active
+000001,john,12345678,Delivery Staff,Active
+000002,james,12345678,Delivery Staff,Active
+000003,loo,12345678,Managing Staff,Active
+000004,lim,123456789,Delivery Staff,Active
+000005,shin,12345678,Managing Staff,Active
+000006,jin,12345678,Delivery Staff,Inactive
+000007,loh,12345678,Managing Staff,Active

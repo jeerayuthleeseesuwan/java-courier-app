@@ -1,0 +1,4 @@
+000001,Johnny,Male,18-01-1996,019308385,johnny@gmail.com,,Express,end-of-line
+000002,James Looi,Female,10-05-2000,0129495739,james@gmail.com,,Express,end-of-line
+000004,lkhjjnb,,,,asdvf,,,end-of-line
+000006,Luu,,,,luu@gmail.com,,,end-of-line
